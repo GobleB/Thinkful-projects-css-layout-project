@@ -1,0 +1,39 @@
+body div {
+	border: 1px solid black;
+	width: 800px;
+}
+
+header {
+	display: flex;
+	height: 200px;
+}
+
+main {
+	display: flex;
+	height: 300px;
+}
+
+.green {
+	background-color: green;
+	flex: 1;	
+}
+
+.blue {
+	background-color: blue;
+	flex: 1;
+}
+
+.grey {
+	background-color: grey;
+	width: 1;
+}
+
+.black {
+	background-color: black;
+	width: 1;
+}
+
+.orange {
+	background-color: orange;
+	width: 1;
+}
